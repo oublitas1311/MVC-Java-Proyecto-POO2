@@ -1,3 +1,4 @@
+// Mejora una interfaz gráfica
 package views;
 
 import java.awt.Dimension;
