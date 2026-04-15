@@ -1,3 +1,4 @@
+// Mejora en la lógica del modelo
 package models;
 
 import core.Model;
