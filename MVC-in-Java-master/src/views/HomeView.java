@@ -61,7 +61,7 @@ public class HomeView extends JPanel implements View
 		txtEmail = new JTextField();
 		txtEmail.setBounds(50, 100, 200, 30);
 
-		btnGuardar = new JButton("Guardar");
+		btnGuardar = new JButton("Guardar evento");
 		btnGuardar.setBounds(50, 150, 120, 30);
 
 		btnGuardar.addActionListener(e -> {
